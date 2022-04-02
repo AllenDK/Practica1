@@ -1,3 +1,5 @@
+![portada uni](https://user-images.githubusercontent.com/101743883/161363304-dc9ef832-b950-4c0f-9f08-b481a8ab5f1b.png)
+
 # TECNOLÓGICO NACIONAL DE MÉXICO
 ## INSTITUTO TECNOLÓGICO DE TIJUANA 
 ## NOMBRE DE LA CARRERA: 
