@@ -1,3 +1,5 @@
+![imagen portada] (C:\Users\AllenDK\Documents\TAREAS UNI\Taller de Legislacion\U1)
+
 # TECNOLÓGICO NACIONAL DE MÉXICO
 ## INSTITUTO TECNOLÓGICO DE TIJUANA 
 ## NOMBRE DE LA CARRERA: 
@@ -16,3 +18,4 @@
 ### Sanchez Vizcarra Daniela Adriana
 ## FECHA DE ENTREGA:
 ### Viernes 01 de abril del 2022 
+
