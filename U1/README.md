@@ -19,4 +19,5 @@
 ---
 | Nombre | Normas juridicas | Normas Sociales | Normas Morales | Normas Religiosas |
 |--------|------------------|-----------------|----------------|-------------------|
-| Definicion y ejemplos | Las normas jurídicas se componen como leyes que son el ordenamiento jurídico de un territorio. Por tanto, una norma jurídica puede ser una obligación o una prohibición. Por ejemplo, está prohibido fumar en el hospital. |---|---|---|
+| Definicion | Las normas jurídicas se componen como leyes que son el ordenamiento jurídico de un territorio.|---|---|---|
+|Ejemplos|Por tanto, una norma jurídica puede ser una obligación o una prohibición. Por ejemplo, está prohibido fumar en el hospital.|-----------------|----------------|-------------------|---|---|---|
