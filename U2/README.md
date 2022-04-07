@@ -19,7 +19,8 @@
 ## FECHA DE ENTREGA:
 ### Viernes 01 de abril del 2022
 ----------------------------------
-|Nombre|Definicion|Utilidad|Ejemplos|
+| Nombre | Definición | Utilidad | Ejemplos |
+|--------|------------|----------|----------|
 |Juridica documentaria|Automatización del conocimiento jurídico surgido de diversas fuentes legislativas, jurisprudenciales y doctrinales; La finalidad principal es recuperar textos de índole jurídica mediante ciertos criterios de búsqueda. De todas las ramas de la informática jurídica, fue la que tuvo mayor desarrollo.|Consiste en encontrar lo más rápida y pertinentemente posible la información que ha sido almacenada.
 El almacenamiento – recuperación de información jurídica conlleva los siguientes procesos:
 a) La entrada de documentos (leyes, reglamentos, doctrinas, etc.), se lleva a cabo bajo una forma codificada comprensible para la máquina.
