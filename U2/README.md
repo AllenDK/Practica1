@@ -9,7 +9,7 @@
 ## TÍTULO DE TRABAJO: 
 ### Cuadro Comparativo
 ## UNIDAD A EVALUAR: 
-### Primera
+### 2da
 ## NOMBRE DEL ESTUDIANTE: 
 ### Allen Delgado Kevin - 20212106
 ### Avila Cebreros Bryan Axel - 20212107
@@ -17,7 +17,7 @@
 ## NOMBRE DE LA MAESTRA:
 ### Sanchez Vizcarra Daniela Adriana
 ## FECHA DE ENTREGA:
-### Viernes 01 de abril del 2022
+### Miercoles 06 de abril del 2022
 ----------------------------------
 | Nombre | Definición | Utilidad | Ejemplos |
 |--------|------------|----------|----------|
