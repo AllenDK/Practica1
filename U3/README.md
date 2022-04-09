@@ -20,6 +20,7 @@
 ### Viernes 08 de abril del 2022
 ----------------------------------
 | Nombre del Art. | Definición |
+|--------|------------|
 | Articulo 6 | El artículo 6 de la constitución mexicana establece la libertad de expresión como la facultad de toda persona de manifestar sus ideas, pensamientos u opiniones por cualquier medio no escrito. Teniendo como límite: • el ataque a la moral. • los derechos de terceros. • la provocación para cometer algún delito o la perturbación del orden público. |
 | Articulo 7 | --- |
 | Articulo 3 | --- |
