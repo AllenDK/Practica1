@@ -26,5 +26,4 @@
 | Articulo 3 | prohíbe que las publicaciones dedicadas a la educación de la niñez y juventud menoscaben los principios establecidos en el mismo artículo.|
 | Articulo 30 | las publicaciones de carácter religioso no podrán“oponerse a las leyes del país o a sus instituciones, ni agraviar, de cualquier forma, los símbolos patrios”.|
 | Articulo 66 | En el artículo 66 de la Ley Federal de Radio y Televisión (LFRT) prohíbe interceptar, divulgar o aprovechar las informaciones que no estén destinadas al dominio público.|
-| Articulo 8 | Las autoridades públicas tienen la obligación de responder por escrito y en breve término a las consultas escritas que les formulen de manera pacífica y respetuosa con los particulares. Este
-derecho está reservado a los ciudadanos mexicanos.|
+| Articulo 8 | Las autoridades públicas tienen la obligación de responder por escrito y en breve término a las consultas escritas que les formulen de manera pacífica y respetuosa con los particulares.Este derecho está reservado a los ciudadanos mexicanos.|
