@@ -22,8 +22,8 @@
 | Nombre del Art. | Definición |
 |--------|------------|
 | Articulo 6 | El artículo 6 de la constitución mexicana establece la libertad de expresión como la facultad de toda persona de manifestar sus ideas, pensamientos u opiniones por cualquier medio no escrito. Teniendo como límite: • el ataque a la moral. • los derechos de terceros. • la provocación para cometer algún delito o la perturbación del orden público. |
-| Articulo 7 | --- |
-| Articulo 3 | --- |
-| Articulo 30 | --- |
+| Articulo 7 | No se puede secuestrar la imprenta como instrumento del delito”, y los expendedores, operadores y demás, son ajenos a las responsabilidades de los autores. |
+| Articulo 3 | prohíbe que las publicaciones dedicadas a la educación de la niñez y juventud menoscaben los principios establecidos en el mismo artículo.|
+| Articulo 30 | las publicaciones de carácter religioso no podrán“oponerse a las leyes del país o a sus instituciones, ni agraviar, de cualquier forma, los símbolos patrios”.|
 | Articulo 66 | --- |
 | Articulo 8 | --- |
