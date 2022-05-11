@@ -17,5 +17,5 @@
 ## NOMBRE DE LA MAESTRA:
 ### Sanchez Vizcarra Daniela Adriana
 ## FECHA DE ENTREGA:
-### Viernes 08 de abril del 2022
+### Martes 10 de Mayo del 2022
 ----------------------------------
