@@ -9,7 +9,7 @@
 ## TÍTULO DE TRABAJO: 
 ### Cuadro Comparativo
 ## UNIDAD A EVALUAR: 
-### 3ra
+### 4ta
 ## NOMBRE DEL ESTUDIANTE: 
 ### Allen Delgado Kevin - 20212106
 ### Avila Cebreros Bryan Axel - 20212107
