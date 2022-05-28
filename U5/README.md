@@ -29,6 +29,7 @@
 |Contrato ocasional de trrabajo.|Este contrato es de corta duración por lo tanto no debe ser superior a 30 días y debe ser por una labor específica diferente a las actividades comunes de la empresa. El trabajador recibe la remuneración acordada y al terminar no tiene derecho a ningún tipo de prestación, salvo en caso de un accidente. La duración del contrato puede ser renovable sin exceder los treinta días del vínculo inicial.|
 |Contrato de interinidad.|El contrato de interinidad es una de las modalidades contractuales que menos problemas plantea. Puesto que se utiliza fundamentalmente para sustituir a trabajadores fijos que abandonan su puesto de trabajo por un tiempo determinado, la empresa no puede contratar a otra persona de forma indefinida para dicho puesto. Por lo tanto, aquí no cabe el despido.|
 |Contrato eventual.|El contrato eventual es una de las fórmulas más frecuentes de contratación temporal. La razón es que se está cuestionando el papel que tiene el contrato por obra o servicio determinados, la modalidad temporal más empleada en la actualidad.|
-|Contrato temporal.|-----|
-|Contrato de relevo.|-----|
-|Contrato de practicas.|-----|
+|Contrato temporal.|Contrato Temporal	El contrato temporal, a diferencia del indefinido, tiene por objeto incorporar a alguien para un puesto de trabajo por un tiempo determinado y una actividad muy concreta.
+Es por tanto una relación laboral entre trabajador y empleador por un tiempo establecido. No obstante, durante la vigencia del contrato cualquiera de las partes podrá exigir su formalización por escrito.|
+|Contrato de relevo.|El contrato de relevo es el acuerdo entre empresario y empleado que tiene como finalidad que una persona ocupe la jornada de trabajo que ha quedado libre por otra persona que se va a jubilar parcialmente.|
+|Contrato de practicas.|Este tipo de contrato es un acuerdo profesional que tiene como objetivo otorgar práctica profesional a un trabajador de acuerdo con su nivel de estudios.|
