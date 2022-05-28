@@ -20,6 +20,7 @@
 ### Martes 10 de Mayo del 2022
 ----------------------------------
 |NOMBRE DEL CONTRATO|CONTENIDO DEL CONTRATO|
+|-------------------|-----------------------|
 |Contrato a termino fijo.|Debe figurar siempre por escrito y su duración no puede ser inferior a un año o superior a los tres años, de ser así este pasa a ser renovable indefinidamente.<br>La vinculación puede ser directamente con la empresa o a través de temporales.<br>El empleado accede a todas las prestaciones sociales establecidas por ley, como lo son prima de servicios, cesantías y vacaciones.|
 |Contrato a termino indefinido.|Este cuenta con una fecha de inicio mas no de terminación.<br>El empleado también accede a todas las prestaciones sociales establecidas por la ley y tiene beneficios adicionales como la opción de vinculación a cooperativas empresariales y ayudas especiales de acuerdo con las políticas de cada empresa, como también la posibilidad de optar por créditos y préstamos entre otros.|
 |Contrato de obra o labor.|Este se celebra durante una obra específica y termina en el momento que la labor llegue a su fin. Este contrato es igual en términos de beneficios y descuentos a los contratos indefinidos y definidos, por ser un contrato laboral.|
