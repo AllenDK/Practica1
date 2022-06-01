@@ -17,7 +17,7 @@
 ## NOMBRE DE LA MAESTRA:
 ### Sanchez Vizcarra Daniela Adriana
 ## FECHA DE ENTREGA:
-### Martes 10 de Mayo del 2022
+### Martes 31 de Mayo del 2022
 ----------------------------------
 |NOMBRE DEL CONTRATO|CONTENIDO DEL CONTRATO|
 |-------------------|-----------------------|
